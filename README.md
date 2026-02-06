@@ -2,7 +2,7 @@
 
 [![AWS](https://img.shields.io/badge/AWS-Bedrock-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/bedrock/)
 [![AI Agent](https://img.shields.io/badge/AI-Agent-blue?style=flat)](https://aws.amazon.com/bedrock/agents/)
-[![Status](https://img.shields.io/badge/Status-Completed-success?style=flat)]()
+
 
 > An AWS Bedrock-powered AI chatbot designed to help high school students develop financial literacy skills through responsible AI practices.
 
@@ -61,7 +61,6 @@ Build a responsible AWS Bedrock Agent that helps high school students:
 ### Prerequisites
 - AWS Account with Bedrock access
 - IAM permissions for Bedrock Agent Builder and Guardrails
-- AWS Budget: ~$25 for testing and deployment
 
 ### Step 1: Set Up AWS Bedrock
 1. Navigate to AWS Bedrock console
@@ -235,7 +234,6 @@ This project is part of an educational program and is intended for portfolio dem
 
 - Udacity Future AWS AI Engineer Program
 - AWS Bedrock and Amazon AI Services
-- Financial literacy education community
 
 ---
 
